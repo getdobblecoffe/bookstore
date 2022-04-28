@@ -1,0 +1,21 @@
+{
+  "working_days_of_the_warehouse": [{ "sunday till Saturday": "10:00 -19:00" }],
+  "Delivery_times_to_the_various_cities": [
+                                            { "jerusalem": "sunday till monday" },
+                                            { "haifa": "tusday and friday till 13pm only" },
+                                            { "be'er_sheva": "monday till thorsday" }
+  ],
+  "Methods of delivery of books": [
+                                            {
+                                            "main_shops": {
+                                                "compony": "israel post",
+                                                "delivery_days": "written above"
+                                            },
+                                            "Home delivery": {
+                                                "compeny": "fedex",
+                                                "delivery_days": "sunday till friday",
+                                                "comment": "extra charge 2.5$ per book"
+                                            }
+    }
+  ]
+}
